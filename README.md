@@ -1,6 +1,6 @@
 # Processing-Sketches
 
-Basic abstract and typographic compositions created with the Processing language.
+Basic abstract and typographic static compositions that I created with the Processing language.
 
 ## TYPE
 
