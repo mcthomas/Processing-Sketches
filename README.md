@@ -1,6 +1,6 @@
 # Processing-Sketches
 
-Basic abstract and typographic static compositions that I created with the Processing language.
+Basic abstract and typographic static compositions, taking advantage of the Processing language's ease of access to geometric forms.  These includes random generation, type, and sound libraries.  These are still in progress, with interactive media yet to be pushed.  Development began during enrollment in _Coding for Graphic Design_ with Professor [Yeohyun Ahn](http://yeoahn.com/designandchange/pages/about/).
 
 ## TYPE
 
